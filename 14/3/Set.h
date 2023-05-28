@@ -1,5 +1,5 @@
-#ifndef INDUSTRIAL_PROGRAMMENT_PRACTIC_SET_H
-#define INDUSTRIAL_PROGRAMMENT_PRACTIC_SET_H
+#ifndef TIP_PRACTICE_SET_H
+#define TIP_PRACTICE_SET_H
 #include <set>
 #include <stdexcept>
 
@@ -21,4 +21,4 @@ public:
 };
 
 
-#endif //INDUSTRIAL_PROGRAMMENT_PRACTIC_SET_H
+#endif //TIP_PRACTICE_SET_H
