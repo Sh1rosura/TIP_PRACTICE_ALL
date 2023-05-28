@@ -15,4 +15,4 @@ public:
 };
 
 
-#endif //INDUSTRIAL_PROGRAMMENT_PRACTIC_TYPE3_H
+#endif //TIP_PRACTICE_TYPE3_H
