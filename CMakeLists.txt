@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.24)
-project(industrial_programment_practic)
+project(tip_practice)
 
 set(CMAKE_CXX_STANDARD 14)
 
