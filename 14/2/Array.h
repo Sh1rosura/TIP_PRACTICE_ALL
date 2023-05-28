@@ -1,5 +1,5 @@
-#ifndef INDUSTRIAL_PROGRAMMENT_PRACTIC_ARRAY_H
-#define INDUSTRIAL_PROGRAMMENT_PRACTIC_ARRAY_H
+#ifndef TIP_PRACTICE_ARRAY_H
+#define TIP_PRACTICE_ARRAY_H
 #include <vector>
 #include <stdexcept>
 
@@ -18,4 +18,4 @@ public:
     }
 };
 
-#endif //INDUSTRIAL_PROGRAMMENT_PRACTIC_ARRAY_H
+#endif //TIP_PRACTICE_ARRAY_H
